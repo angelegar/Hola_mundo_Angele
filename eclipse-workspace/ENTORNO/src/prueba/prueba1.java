@@ -6,6 +6,22 @@ public class prueba1 {
 		
 		System.out.println("Hola mundo!!!");
 		System.out.println("Holi, mundo");
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		System.out.println("Mediamarkt, yo no soy tonto, ahora ahorra en tus compras");
+
 
 	}
 
